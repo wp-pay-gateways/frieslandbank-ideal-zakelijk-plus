@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: Friesland Bank - iDEAL Zakelijk Plus
+# [DEPRECATED] WordPress Pay Gateway: Friesland Bank - iDEAL Zakelijk Plus
 
 **Friesland Bank - iDEAL Zakelijk Plus driver for the WordPress payment processing library.**
 
