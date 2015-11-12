@@ -7,7 +7,6 @@ class Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlus_Integration {
 		$this->provider   = 'frieslandbank';
 		$this->deprecated = true;
 	}
-	}
 
 	public function get_config_factory_class() {
 		return 'Pronamic_WP_Pay_Gateways_IDealAdvanced_ConfigFactory';
