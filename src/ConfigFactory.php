@@ -8,8 +8,8 @@
  * @author Remco Tolsma
  * @version 1.0.0
  */
-class Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijk_ConfigFactory extends Pronamic_WP_Pay_Gateways_Ogone_OrderStandard_ConfigFactory {
+class Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlus_ConfigFactory extends Pronamic_WP_Pay_Gateways_IDealAdvanced_ConfigFactory {
 	public function __construct() {
-		parent::__construct( 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijk_Config', 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijk_ConfigTest' );
+		parent::__construct( 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlus_Config', 'Pronamic_WP_Pay_Gateways_FrieslandBank_IDealZakelijkPlus_ConfigTest' );
 	}
 }
